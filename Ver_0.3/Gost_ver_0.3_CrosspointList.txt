@@ -38,6 +38,16 @@ S-1.2 in macro S-4.1.1.1:S-9 (Module File C:\Users\Константин Шутов\Documents\Gi
 Ver_0.3\Switcher.umc)                                                                               
 S-1.2 in macro S-4.1.1.1:S-10 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg          16400
 \Ver_0.3\Switcher.umc)                                                                              
+S-1.2 in macro S-4.1.2.3 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16432
+0.3\Switcher.umc)                                                                                   
+S-1.2 in macro S-4.1.3.2 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16433
+0.3\Switcher.umc)                                                                                   
+S-1.2 in macro S-4.1.4.2 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16434
+0.3\Switcher.umc)                                                                                   
+S-1.2 in macro S-4.1.5.2 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16435
+0.3\Switcher.umc)                                                                                   
+S-1.2 in macro S-4.1.6.2 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16436
+0.3\Switcher.umc)                                                                                   
 S-1.2 in macro S-4.1.2.1 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16481
 0.3\Switcher.umc)                                                                                   
 S-1.2 in macro S-4.1.2.2 (Module File C:\Users\Константин Шутов\Documents\GitHub\trfg\Ver_          16497
