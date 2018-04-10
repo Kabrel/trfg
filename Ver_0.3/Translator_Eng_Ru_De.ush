@@ -1,0 +1,1402 @@
+[BEGIN]
+  Version=1
+[END]
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=UserSPlus
+  RelVrs=1
+  IntStrVrs=1
+  SPlusVrs=4.04.01
+  CrossCplrVrs=1.3
+[END]
+[BEGIN]
+  ObjTp=Hd
+[END]
+[BEGIN]
+  ObjTp=Symbol
+  Exclusions=1,19,20,21,88,89,167,168,179,213,214,215,216,217,225,226,248,249,266,267,310,362,378,380,405,407,408,409,478,522,537,554,586,590,611,624,718,756,767,830,841,842,854,883,955,1032,1062,1079,1128,1129,1134,1140,1157,1158,1195,1199,1220,1221,1222,1223,1299,1348,1349,1439,1472,1473,1499,1746,1803,1975,2229,2354,2514,2523,2532,2706,2707,3235,3236,3427,3454,3567,3568,3601,3602,3708,3902,3903,3912,3918,3925,3926,4206,4207,
+  Exclusions_CDS=5
+  Inclusions_CDS=6
+  Name=Translator
+  SmplCName=Translator_Eng_Ru_De.usp
+  Code=1
+  SysRev5=4.000
+  SMWRev=3.00.00
+  InputCue1=RuLang
+  InputSigType1=Digital
+  InputCue2=DeLang
+  InputSigType2=Digital
+  InputList2Cue1=SerialIn[#]
+  InputList2SigType1=Serial
+  OutputList2Cue1=SerialOut[#]
+  OutputList2SigType1=Serial
+  ParamCue1=[Reference Name]
+  ParamCue2=CurrentName[1]
+  ParamSigType2=String
+  ParamCue3=CurrentName[2]
+  ParamSigType3=String
+  ParamCue4=CurrentName[3]
+  ParamSigType4=String
+  ParamCue5=CurrentName[4]
+  ParamSigType5=String
+  ParamCue6=CurrentName[5]
+  ParamSigType6=String
+  ParamCue7=CurrentName[6]
+  ParamSigType7=String
+  ParamCue8=CurrentName[7]
+  ParamSigType8=String
+  ParamCue9=CurrentName[8]
+  ParamSigType9=String
+  ParamCue10=CurrentName[9]
+  ParamSigType10=String
+  ParamCue11=CurrentName[10]
+  ParamSigType11=String
+  ParamCue12=CurrentName[11]
+  ParamSigType12=String
+  ParamCue13=CurrentName[12]
+  ParamSigType13=String
+  ParamCue14=CurrentName[13]
+  ParamSigType14=String
+  ParamCue15=CurrentName[14]
+  ParamSigType15=String
+  ParamCue16=CurrentName[15]
+  ParamSigType16=String
+  ParamCue17=CurrentName[16]
+  ParamSigType17=String
+  ParamCue18=CurrentName[17]
+  ParamSigType18=String
+  ParamCue19=CurrentName[18]
+  ParamSigType19=String
+  ParamCue20=CurrentName[19]
+  ParamSigType20=String
+  ParamCue21=CurrentName[20]
+  ParamSigType21=String
+  ParamCue22=CurrentName[21]
+  ParamSigType22=String
+  ParamCue23=CurrentName[22]
+  ParamSigType23=String
+  ParamCue24=CurrentName[23]
+  ParamSigType24=String
+  ParamCue25=CurrentName[24]
+  ParamSigType25=String
+  ParamCue26=CurrentName[25]
+  ParamSigType26=String
+  ParamCue27=CurrentName[26]
+  ParamSigType27=String
+  ParamCue28=CurrentName[27]
+  ParamSigType28=String
+  ParamCue29=CurrentName[28]
+  ParamSigType29=String
+  ParamCue30=CurrentName[29]
+  ParamSigType30=String
+  ParamCue31=CurrentName[30]
+  ParamSigType31=String
+  ParamCue32=CurrentName[31]
+  ParamSigType32=String
+  ParamCue33=CurrentName[32]
+  ParamSigType33=String
+  ParamCue34=CurrentName[33]
+  ParamSigType34=String
+  ParamCue35=CurrentName[34]
+  ParamSigType35=String
+  ParamCue36=CurrentName[35]
+  ParamSigType36=String
+  ParamCue37=CurrentName[36]
+  ParamSigType37=String
+  ParamCue38=CurrentName[37]
+  ParamSigType38=String
+  ParamCue39=CurrentName[38]
+  ParamSigType39=String
+  ParamCue40=CurrentName[39]
+  ParamSigType40=String
+  ParamCue41=CurrentName[40]
+  ParamSigType41=String
+  ParamCue42=[~UNUSED~]
+  ParamSigType42=Constant
+  ParamCue43=TranslateRu[1]
+  ParamSigType43=String
+  ParamCue44=TranslateRu[2]
+  ParamSigType44=String
+  ParamCue45=TranslateRu[3]
+  ParamSigType45=String
+  ParamCue46=TranslateRu[4]
+  ParamSigType46=String
+  ParamCue47=TranslateRu[5]
+  ParamSigType47=String
+  ParamCue48=TranslateRu[6]
+  ParamSigType48=String
+  ParamCue49=TranslateRu[7]
+  ParamSigType49=String
+  ParamCue50=TranslateRu[8]
+  ParamSigType50=String
+  ParamCue51=TranslateRu[9]
+  ParamSigType51=String
+  ParamCue52=TranslateRu[10]
+  ParamSigType52=String
+  ParamCue53=TranslateRu[11]
+  ParamSigType53=String
+  ParamCue54=TranslateRu[12]
+  ParamSigType54=String
+  ParamCue55=TranslateRu[13]
+  ParamSigType55=String
+  ParamCue56=TranslateRu[14]
+  ParamSigType56=String
+  ParamCue57=TranslateRu[15]
+  ParamSigType57=String
+  ParamCue58=TranslateRu[16]
+  ParamSigType58=String
+  ParamCue59=TranslateRu[17]
+  ParamSigType59=String
+  ParamCue60=TranslateRu[18]
+  ParamSigType60=String
+  ParamCue61=TranslateRu[19]
+  ParamSigType61=String
+  ParamCue62=TranslateRu[20]
+  ParamSigType62=String
+  ParamCue63=TranslateRu[21]
+  ParamSigType63=String
+  ParamCue64=TranslateRu[22]
+  ParamSigType64=String
+  ParamCue65=TranslateRu[23]
+  ParamSigType65=String
+  ParamCue66=TranslateRu[24]
+  ParamSigType66=String
+  ParamCue67=TranslateRu[25]
+  ParamSigType67=String
+  ParamCue68=TranslateRu[26]
+  ParamSigType68=String
+  ParamCue69=TranslateRu[27]
+  ParamSigType69=String
+  ParamCue70=TranslateRu[28]
+  ParamSigType70=String
+  ParamCue71=TranslateRu[29]
+  ParamSigType71=String
+  ParamCue72=TranslateRu[30]
+  ParamSigType72=String
+  ParamCue73=TranslateRu[31]
+  ParamSigType73=String
+  ParamCue74=TranslateRu[32]
+  ParamSigType74=String
+  ParamCue75=TranslateRu[33]
+  ParamSigType75=String
+  ParamCue76=TranslateRu[34]
+  ParamSigType76=String
+  ParamCue77=TranslateRu[35]
+  ParamSigType77=String
+  ParamCue78=TranslateRu[36]
+  ParamSigType78=String
+  ParamCue79=TranslateRu[37]
+  ParamSigType79=String
+  ParamCue80=TranslateRu[38]
+  ParamSigType80=String
+  ParamCue81=TranslateRu[39]
+  ParamSigType81=String
+  ParamCue82=TranslateRu[40]
+  ParamSigType82=String
+  ParamCue83=[~UNUSED~]
+  ParamSigType83=Constant
+  ParamCue84=TranslateDe[1]
+  ParamSigType84=String
+  ParamCue85=TranslateDe[2]
+  ParamSigType85=String
+  ParamCue86=TranslateDe[3]
+  ParamSigType86=String
+  ParamCue87=TranslateDe[4]
+  ParamSigType87=String
+  ParamCue88=TranslateDe[5]
+  ParamSigType88=String
+  ParamCue89=TranslateDe[6]
+  ParamSigType89=String
+  ParamCue90=TranslateDe[7]
+  ParamSigType90=String
+  ParamCue91=TranslateDe[8]
+  ParamSigType91=String
+  ParamCue92=TranslateDe[9]
+  ParamSigType92=String
+  ParamCue93=TranslateDe[10]
+  ParamSigType93=String
+  ParamCue94=TranslateDe[11]
+  ParamSigType94=String
+  ParamCue95=TranslateDe[12]
+  ParamSigType95=String
+  ParamCue96=TranslateDe[13]
+  ParamSigType96=String
+  ParamCue97=TranslateDe[14]
+  ParamSigType97=String
+  ParamCue98=TranslateDe[15]
+  ParamSigType98=String
+  ParamCue99=TranslateDe[16]
+  ParamSigType99=String
+  ParamCue100=TranslateDe[17]
+  ParamSigType100=String
+  ParamCue101=TranslateDe[18]
+  ParamSigType101=String
+  ParamCue102=TranslateDe[19]
+  ParamSigType102=String
+  ParamCue103=TranslateDe[20]
+  ParamSigType103=String
+  ParamCue104=TranslateDe[21]
+  ParamSigType104=String
+  ParamCue105=TranslateDe[22]
+  ParamSigType105=String
+  ParamCue106=TranslateDe[23]
+  ParamSigType106=String
+  ParamCue107=TranslateDe[24]
+  ParamSigType107=String
+  ParamCue108=TranslateDe[25]
+  ParamSigType108=String
+  ParamCue109=TranslateDe[26]
+  ParamSigType109=String
+  ParamCue110=TranslateDe[27]
+  ParamSigType110=String
+  ParamCue111=TranslateDe[28]
+  ParamSigType111=String
+  ParamCue112=TranslateDe[29]
+  ParamSigType112=String
+  ParamCue113=TranslateDe[30]
+  ParamSigType113=String
+  ParamCue114=TranslateDe[31]
+  ParamSigType114=String
+  ParamCue115=TranslateDe[32]
+  ParamSigType115=String
+  ParamCue116=TranslateDe[33]
+  ParamSigType116=String
+  ParamCue117=TranslateDe[34]
+  ParamSigType117=String
+  ParamCue118=TranslateDe[35]
+  ParamSigType118=String
+  ParamCue119=TranslateDe[36]
+  ParamSigType119=String
+  ParamCue120=TranslateDe[37]
+  ParamSigType120=String
+  ParamCue121=TranslateDe[38]
+  ParamSigType121=String
+  ParamCue122=TranslateDe[39]
+  ParamSigType122=String
+  ParamCue123=TranslateDe[40]
+  ParamSigType123=String
+  ParamCue124=[~UNUSED~]
+  ParamSigType124=Constant
+  MinVariableInputs=2
+  MaxVariableInputs=2
+  MinVariableInputsList2=1
+  MaxVariableInputsList2=40
+  MinVariableOutputs=0
+  MaxVariableOutputs=0
+  MinVariableOutputsList2=1
+  MaxVariableOutputsList2=40
+  MinVariableParams=123
+  MaxVariableParams=123
+  Expand=expand_separately
+  Expand2=expand_separately
+  ProgramTree=Logic
+  SymbolTree=46
+  UserSymTreeName=<unnamed>
+  Hint=Serial Translator
+  PdfHelp=
+  HelpID= 
+  Render=4
+  Smpl-C=16
+  CompilerCode=-48
+  CompilerParamCode=27
+  CompilerParamCode5=14
+  NumFixedParams=1
+  Pp1=1
+  Pp2=2
+  Pp3=3
+  Pp4=4
+  Pp5=5
+  Pp6=6
+  Pp7=7
+  Pp8=8
+  Pp9=9
+  Pp10=10
+  Pp11=11
+  Pp12=12
+  Pp13=13
+  Pp14=14
+  Pp15=15
+  Pp16=16
+  Pp17=17
+  Pp18=18
+  Pp19=19
+  Pp20=20
+  Pp21=21
+  Pp22=22
+  Pp23=23
+  Pp24=24
+  Pp25=25
+  Pp26=26
+  Pp27=27
+  Pp28=28
+  Pp29=29
+  Pp30=30
+  Pp31=31
+  Pp32=32
+  Pp33=33
+  Pp34=34
+  Pp35=35
+  Pp36=36
+  Pp37=37
+  Pp38=38
+  Pp39=39
+  Pp40=40
+  Pp41=41
+  Pp43=43
+  Pp44=44
+  Pp45=45
+  Pp46=46
+  Pp47=47
+  Pp48=48
+  Pp49=49
+  Pp50=50
+  Pp51=51
+  Pp52=52
+  Pp53=53
+  Pp54=54
+  Pp55=55
+  Pp56=56
+  Pp57=57
+  Pp58=58
+  Pp59=59
+  Pp60=60
+  Pp61=61
+  Pp62=62
+  Pp63=63
+  Pp64=64
+  Pp65=65
+  Pp66=66
+  Pp67=67
+  Pp68=68
+  Pp69=69
+  Pp70=70
+  Pp71=71
+  Pp72=72
+  Pp73=73
+  Pp74=74
+  Pp75=75
+  Pp76=76
+  Pp77=77
+  Pp78=78
+  Pp79=79
+  Pp80=80
+  Pp81=81
+  Pp82=82
+  Pp84=84
+  Pp85=85
+  Pp86=86
+  Pp87=87
+  Pp88=88
+  Pp89=89
+  Pp90=90
+  Pp91=91
+  Pp92=92
+  Pp93=93
+  Pp94=94
+  Pp95=95
+  Pp96=96
+  Pp97=97
+  Pp98=98
+  Pp99=99
+  Pp100=100
+  Pp101=101
+  Pp102=102
+  Pp103=103
+  Pp104=104
+  Pp105=105
+  Pp106=106
+  Pp107=107
+  Pp108=108
+  Pp109=109
+  Pp110=110
+  Pp111=111
+  Pp112=112
+  Pp113=113
+  Pp114=114
+  Pp115=115
+  Pp116=116
+  Pp117=117
+  Pp118=118
+  Pp119=119
+  Pp120=120
+  Pp121=121
+  Pp122=122
+  Pp123=123
+  MPp=123
+  NVStorage=10
+  ParamSigType1=String
+  SmplCInputCue1=o#
+  SmplCOutputCue1=i#
+  SmplCInputList2Cue1=an#
+  SmplCOutputList2Cue1=ai#
+  SPlus2CompiledName=S2_Translator_Eng_Ru_De
+  SymJam=NonExclusive
+  FileName=Translator_Eng_Ru_De.ush
+  SIMPLPlusModuleEncoding=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=1
+  Tp=1
+  NoS=False
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=2
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=3
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=4
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=5
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=6
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=7
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=8
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=9
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=10
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=11
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=12
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=13
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=14
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=15
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=16
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=17
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=18
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=19
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=20
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=21
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=22
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=23
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=24
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=25
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=26
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=27
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=28
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=29
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=30
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=31
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=32
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=33
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=34
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=35
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=36
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=37
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=38
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=39
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=40
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=41
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=43
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=44
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=45
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=46
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=47
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=48
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=49
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=50
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=51
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=52
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=53
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=54
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=55
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=56
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=57
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=58
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=59
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=60
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=61
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=62
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=63
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=64
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=65
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=66
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=67
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=68
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=69
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=70
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=71
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=72
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=73
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=74
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=75
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=76
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=77
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=78
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=79
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=80
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=81
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=82
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=84
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=85
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=86
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=87
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=88
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=89
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=90
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=91
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=92
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=93
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=94
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=95
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=96
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=97
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=98
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=99
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=100
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=101
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=102
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=103
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=104
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=105
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=106
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=107
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=108
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=109
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=110
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=111
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=112
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=113
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=114
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=115
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=116
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=117
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=118
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=119
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=120
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=121
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=122
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=123
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]
