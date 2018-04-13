@@ -29,8 +29,8 @@ Comments:
 #DEFAULT_NONVOLATILE
 #ENABLE_STACK_CHECKING
 #ENABLE_TRACE
-#ENCODING_ASCII
-// #ENCODING_UTF16
+//#ENCODING_ASCII
+#ENCODING_UTF16
 // #ENCODING_INHERIT_FROM_PARENT
 // #ENCODING_INHERIT_FROM_PROGRAM
 /*
@@ -186,9 +186,9 @@ EVENT
 	{
 			
     	
-		for (Word = 0 to WordCount)
+		for (Word = 1 to WordCount)
 		{
-    		for (Naming = 0 to WordTranslateRu)
+    		for (Naming = 1 to WordTranslateRu)
 			{
 				If (SerialIn[Word] = CurrentName[Naming])
 				{
@@ -199,9 +199,9 @@ EVENT
 	}
 	Else If (DeLang = 1)		
 	{
-		for (Word = 0 to WordCount)
+		for (Word = 1 to WordCount)
 		{
-    		for (Naming = 0 to WordTranslateDe)
+    		for (Naming = 1 to WordTranslateDe)
 			{
 				If (SerialIn[Word] = CurrentName[Naming])
 				{

@@ -432,7 +432,9 @@
   SPlus2CompiledName=S2_Translator_Eng_Ru_De
   SymJam=NonExclusive
   FileName=Translator_Eng_Ru_De.ush
-  SIMPLPlusModuleEncoding=0
+  SIMPLPlusModuleEncoding=1
+  clz1=AppHelperClasses v2_0
+  clz2=Crestron.MediaPlayerValidator
 [END]
 [BEGIN]
   ObjTp=Dp
