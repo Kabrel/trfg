@@ -17,9 +17,9 @@ Comments:
 // #ENABLE_DYNAMIC
 #SYMBOL_NAME "Translator"
 #HINT "Serial Translator"
-#DEFINE_CONSTANT WordCount 40
-#DEFINE_CONSTANT WordTranslateRu 40
-#DEFINE_CONSTANT WordTranslateDe 40
+#DEFINE_CONSTANT WordCount 60
+#DEFINE_CONSTANT WordTranslateRu 60
+#DEFINE_CONSTANT WordTranslateDe 60
 #CATEGORY "46" 
 // #PRINT_TO_TRACE
 // #DIGITAL_EXPAND 

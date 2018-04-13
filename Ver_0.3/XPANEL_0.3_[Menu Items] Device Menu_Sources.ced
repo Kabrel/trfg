@@ -8,13 +8,13 @@ VTProeVer=6.1.09
 ]
 [
 ObjTp=Symbol
-Name=XPANEL_0.3_[Menu Items] Device Menu_Subpage Reference List Vertical.ced
-Hint=Subpage Reference List Vertical (Smart Object ID=11)
+Name=XPANEL_0.3_[Menu Items] Device Menu_Sources.ced
+Hint=Sources (Smart Object ID=11)
 Code=2
 SGControlType=Subpage Reference List Vertical
-SGControlName=Subpage Reference List Vertical
+SGControlName=Sources
 GUID=C8A7B0DB-4F58-4721-A258-45961E9B058E
-SmplCName=XPANEL_0.3_[Menu Items] Device Menu_Subpage Reference List Vertical.ced
+SmplCName=XPANEL_0.3_[Menu Items] Device Menu_Sources.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -1633,7 +1633,7 @@ Sgn=0
 [
 ObjTp=CED
 H=2
-Name=XPANEL_0.3_[Menu Items] Device Menu_Subpage Reference List Vertical.ced
+Name=XPANEL_0.3_[Menu Items] Device Menu_Sources.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
