@@ -20,8 +20,8 @@
   Name=Devices Controller
   SmplCName=Devices Controller.usp
   Code=1
-  SysRev5=4.006
-  SMWRev=3.00.00
+  SysRev5=4.000
+  SMWRev=2.02.00
   InputCue1=Initialize
   InputSigType1=Digital
   InputCue2=Device_Default_Select
@@ -679,8 +679,6 @@
   SymJam=NonExclusive
   FileName=Devices Controller.ush
   SIMPLPlusModuleEncoding=0
-  clz1=CrestronKNXLibrary
-  clz2=SonosLibrary_v2_3
 [END]
 [BEGIN]
   ObjTp=Dp

@@ -20,7 +20,7 @@
   Name=IndexOf
   SmplCName=IndexOf.usp
   Code=1
-  SysRev5=4.006
+  SysRev5=4.000
   SMWRev=3.00.00
   OutputCue1=Found_First
   OutputSigType1=Digital
@@ -267,8 +267,8 @@
   SymJam=NonExclusive
   FileName=IndexOf.ush
   SIMPLPlusModuleEncoding=0
-  clz1=CrestronKNXLibrary
-  clz2=SonosLibrary_v2_3
+  clz1=AppHelperClasses v2_0
+  clz2=Crestron.MediaPlayerValidator
 [END]
 [BEGIN]
   ObjTp=Dp
