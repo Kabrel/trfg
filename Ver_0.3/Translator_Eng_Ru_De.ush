@@ -613,9 +613,18 @@
   SymJam=NonExclusive
   FileName=Translator_Eng_Ru_De.ush
   SIMPLPlusModuleEncoding=1
+<<<<<<< HEAD
   clz1=CrestronKNXLibrary
+<<<<<<< HEAD
+  clz2=SonosLibrary_v2_3
+=======
+  clz1=AppHelperClasses v2_0
+  clz2=Crestron.MediaPlayerValidator
+>>>>>>> parent of b40af19... Update 16/04/18
+=======
   clz2=AppHelperClasses v2_0
   clz3=Crestron.MediaPlayerValidator
+>>>>>>> parent of 385e245... Wrong App
 [END]
 [BEGIN]
   ObjTp=Dp
