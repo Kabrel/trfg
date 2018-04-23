@@ -20,7 +20,7 @@
   Name=Translator
   SmplCName=Translator_Eng_Ru_De.usp
   Code=1
-  SysRev5=4.000
+  SysRev5=4.006
   SMWRev=3.00.00
   InputCue1=RuLang
   InputSigType1=Digital
@@ -614,8 +614,7 @@
   FileName=Translator_Eng_Ru_De.ush
   SIMPLPlusModuleEncoding=1
   clz1=CrestronKNXLibrary
-  clz2=AppHelperClasses v2_0
-  clz3=Crestron.MediaPlayerValidator
+  clz2=SonosLibrary_v2_3
 [END]
 [BEGIN]
   ObjTp=Dp

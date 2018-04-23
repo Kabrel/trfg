@@ -20,7 +20,7 @@
   Name=Crestron KNX Date v3.2
   SmplCName=Crestron KNX Date v3.2.usp
   Code=1
-  SysRev5=4.000
+  SysRev5=4.006
   SMWRev=3.00.00
   InputCue1=Initialize
   InputSigType1=Digital
